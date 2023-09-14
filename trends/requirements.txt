@@ -1,5 +1,0 @@
-python-crontab
-pytrends
-pymongo
-flask
-schedule
